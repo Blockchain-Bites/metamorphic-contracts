@@ -1,3 +1,5 @@
+![Contratos Cambiantes El caso del Contrato Metamórfico](https://github.com/Blockchain-Bites/metamorphic-contracts/assets/3300958/4742f132-2a96-4999-a3bd-a4284a736725)
+
 # <u>LOS CONTRATOS SÍ CAMBIAN DE CÓDIGO: CONTRATOS METAMÓRFICOS</u>
 
 Los contratos inteligentes deberían entidades inmutables. Es decir, una vez que se publican, la lógica de dichos contratos no debería cambiar. Sin embargo, diferentes razones a empujado a que se creen patrones que permiten "actualizar" la lógica de los contratos inteligentes.
