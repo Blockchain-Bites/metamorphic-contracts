@@ -178,3 +178,7 @@ De acuerdo a [EIP-4758](https://eips.ethereum.org/EIPS/eip-4758), `SELFDESCTRUCT
 `SELFDESTRUCT` tiene la capacidad de remover el código y la información (storage) dicha cuenta. En cambio, `SENDALL` solo enviará los fondos a un objetivo pero no elimina ni código ni información (storage).
 
 en [EIP-6049](https://eips.ethereum.org/EIPS/eip-6049) se busca poner `SELFDESCTRUCT` a un estado obsoleto. 
+
+## Inscríbete en nuestro siguiente programa Marzo-2024
+
+[Link de inscripción](https://tally.so/r/nrok92)
